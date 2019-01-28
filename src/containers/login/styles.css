@@ -1,3 +1,9 @@
 .login {
-    
+    background-color: #e4e4e4;
+    height: auto !important;
+    min-height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0; 
+    width: 100%;
 }
