@@ -6,7 +6,9 @@ import './styles.css';
 
 const Login = () => (
     <div className="login">
-        Login
+        <div className="container">
+            Container
+        </div>
     </div>
 );
 
