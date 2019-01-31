@@ -28,11 +28,11 @@ You can visit this [page](https://blog.teamtreehouse.com/install-node-js-npm-win
 You should to install NPM and Node.js in mac [press here](https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/)
 
 * **Linux**
-to steps for install in linux see that [short video](https://www.youtube.com/watch?v=esNlno79dBw)
+To steps for install in linux see that [short video](https://www.youtube.com/watch?v=esNlno79dBw)
 
 # INSTALL THE PROJECT
 
-1. open git bash in windows, in mac and linux open the term, for download our project
+1. Open git bash in windows, in mac and linux open the term, for download our project
 * Go to the folder where you want that the project is there, and write 
 "git clone https://github.com/remic-co/FindYourPet.git", later to do it, you will have our project in that folder.
 * In the term go to the root of the project (file FindYourPet) and run the next command:
