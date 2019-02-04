@@ -6,12 +6,47 @@
     position: fixed;
     top: 0; 
     width: 100%;
+}   
+
+
+.container{
+    width: 500px;
+    height: 600px;
+    margin-left: 550px;
+    background-color: white;
+    margin-top: 80px;
 }
 
-.login .container {
-    background-color: white;
-    height: 200px;
-    margin: 0 auto;
-    width: 200px;
-    text-align: center;
+
+.tittle{
+    margin-left: 230px;
+    
+}
+
+
+.cont-t-e{
+
+    margin-top: -40px;
+}
+
+.t-e{
+  margin-left: 50px;
+  font-family: arial;
+  color: blue;
+  margin-top: 20px;
+}
+
+.e-mail{
+    margin-top: -600px;
+    margin-left: 250px;
+}
+
+.t-p{
+
+
+}
+
+.password{
+   margin-top: 100px;
+
 }
