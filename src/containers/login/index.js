@@ -8,22 +8,41 @@ const Login = () => (
     <div className="login">
         <div className="container">
 <<<<<<< HEAD
+<<<<<<< HEAD
             Container
 =======
+=======
+               
+              
+              
+              
+>>>>>>> 064f457... Advances in Login.
 
-               <p className="tittle">Login</p>
                 <br></br>
  
+                   <div className="container-2">
+
+
               
-               <p className="t-e"> e-mail </p>
-               <div className="cont-t-e">
-               <input className="e-mail" type="text"></input>
+               <div className="cont-email">
+               <input className="e-mail" type="text" placeholder="     E-mail" ></input>
                </div>
                <br></br>
               
+              
+              <div className="cont-password"> 
+              <input className="password" type="password" value="    Password" type="text"></input>
+              </div>
+                
+               <hr className="hr-one"></hr> 
 
-              <p className="t-p">password</p> 
-              <input className="password" type="password"></input>
+              <input className="log-in" type="submit" value="Log In">
+              </input>
+
+              
+                 
+
+                 </div>
 
 >>>>>>> 469e3d3... create email input
         </div>
