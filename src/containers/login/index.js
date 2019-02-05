@@ -7,16 +7,6 @@ import './styles.css';
 const Login = () => (
     <div className="login">
         <div className="container">
-<<<<<<< HEAD
-<<<<<<< HEAD
-            Container
-=======
-=======
-               
-              
-              
-              
->>>>>>> 064f457... Advances in Login.
 
                 <br></br>
  
@@ -43,8 +33,6 @@ const Login = () => (
                  
 
                  </div>
-
->>>>>>> 469e3d3... create email input
         </div>
     </div>
 
