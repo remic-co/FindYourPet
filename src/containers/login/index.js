@@ -25,13 +25,13 @@ const Login = () => (
 
               
                <div className="cont-email">
-               <input className="e-mail" type="text" placeholder="     E-mail" ></input>
+               <input className="e-mail" type="text" placeholder= "     E-mail" ></input>
                </div>
                <br></br>
               
               
               <div className="cont-password"> 
-              <input className="password" type="password" value="    Password" type="text"></input>
+              <input className="password" type="password" placeholder= "    Password"></input>
               </div>
                 
                <hr className="hr-one"></hr> 
