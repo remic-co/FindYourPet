@@ -6,12 +6,81 @@
     position: fixed;
     top: 0; 
     width: 100%;
+}   
+
+
+.container{
+    width: 450px;
+    height: 600px;
+    margin-left: 550px;
+    background-color: white;
+    margin-top: 100px;
 }
 
-.login .container {
-    background-color: white;
-    height: 200px;
-    margin: 0 auto;
-    width: 200px;
-    text-align: center;
+
+
+
+
+
+.container-2{
+
+    margin-top: 100px;
+}
+
+
+
+
+.cont-email{
+
+    margin-top: 50px;
+    
+
+}  
+
+
+.e-mail{
+    
+    margin-left: 80px;
+    height: 50px;
+    width: 300px;
+    border-radius: 4px;
+    border: 1px solid grey;
+    background-color: rgba(0, 195, 163, 0.1);
+}
+
+
+
+.cont-password{
+
+    margin-top: 5px;
+
+} 
+
+.password{
+    margin-left: 80px;
+    height: 50px;
+    width: 300px;
+    border-radius: 4px;
+    border: 1px solid grey;
+    background-color: rgba(0, 195, 163, 0.1);
+}
+
+.log-in{
+
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid black;
+    background-color: green;
+    color: white;
+}
+
+.hr-one{
+    width: 360px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border: 0.5px solid  lightgray
+
 }
